@@ -7,9 +7,8 @@ This repository contains the core documentation, methodology, and architectural 
 ---
 
 ## 👥 Authors & Collaborators
-* **Rishabh Seth** (AI & ML Engineer)
-* **Akshit Pratap Singh** (Collaborator)
-* **Kshitij Mishra** (Collaborator)
+* **Akshit Pratap Singh** (Aspiring AI & ML Engineer)
+* **Rishabh Seth** (Collaborator)
 * **Supervised by:** Dr. Snehlata (Assistant Professor, Department of CSE)
 
 ---
